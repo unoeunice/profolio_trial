@@ -1,0 +1,60 @@
+*{background-color: #292929;
+
+    text-decoration: none;
+    color:#E4D7FE;
+ }
+
+.name{
+    font-size:18px;
+}
+
+
+.nav{
+    display:flex;
+    justify-content:space-between;
+    
+
+}
+
+
+
+
+
+.navbar ul li{
+
+    display:inline;
+    list-style-type:none;
+    padding:10px;
+    font-size: 16px;
+   
+}
+
+
+
+#aboutme{
+
+    display:flex;
+
+    justify-content: space-between;
+}
+
+.pic img{
+    width:300px;
+    height:auto;
+}
+
+/*in skill.html*/
+.skill_img img{
+    width:350px;
+    height:auto;
+    margin-top: 150px;
+}
+
+
+
+#legobaby{
+
+width:150px;
+
+
+}
